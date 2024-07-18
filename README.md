@@ -7,7 +7,7 @@
 
 <h4 align="center"> ✔️ No Heroku Ban! ✔️</h4>
 <a><img src='https://i.imgur.com/LyHic3i.gif '/></a><a><img 
-<a><img src='https://i.imgur.com/LyHic3i.gif '/></a><a><img 
+<img src='https://i.imgur.com/LyHic3i.gif '/></a><a><img 
 
 <p align="center">
   <a href="https://telegra.ph/file/eb96c716a327862d66078.jpg">
