@@ -126,10 +126,10 @@ set the Env Vars.
    
     **Option H: Deploy on Panel**
  1. First You Have to Sign up on discord using web or app then click below.
-2. [Sign Up On Panel](https://bot-hosting.net/?aff=1097457675723341836) if you don’t have Already.
+2. [Sign Up On Panel](https://bot-hosting.net/?aff=1117072269395632178) if you don’t have Already.
 4. Click the button below to deploy using Panel:
    <br>
-   <a href='https://bot-hosting.net/?aff=1097457675723341836' target="_blank">
+   <a href='https://bot-hosting.net/?aff=1117072269395632178' target="_blank">
       <img alt='Deploy in Panel' src='https://img.shields.io/badge/-DEPLOY-green?style=for-the-badge&logo=Cloudflare&logoColor=white'/>
    </a>
    
