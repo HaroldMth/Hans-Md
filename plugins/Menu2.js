@@ -37,11 +37,11 @@ let quote = quotes[Math.floor(Math.random() * quotes.length)];
 
 let taguser = '@' + m.sender.split("@s.whatsapp.net")[0]
 let str = `
-🚀 *_Buckle up ${name}, ${greeting}! We're going on an adventure!_* 🚀
+🚀 *_ Hello ${name}, ${greeting}! Hope you are enjoying!_* 🚀
 
 📋 *_Quote of the day: ${quote}_* 📋
-> ➠ *Bot Name* : *ULTRA-MD*
-> ➠ *Version*     : *3 . 1 . 0*
+> ➠ *Bot Name* : *Hans-MD*
+> ➠ *Version*     : *3 . 1 *
 > ➠ *Type*          : *PLUGINS*
 > ➠ *Platform*   : *LINUX*
 
@@ -78,9 +78,9 @@ let str = `
 ◈┃• fancy2
 ◈┗━♪♪━★━☆━⦿
 
-© GlobalTechInfo
+© HansTech0
 
-> 💡 *_Remember, when in doubt, use ${usedPrefix}listmenu or ${usedPrefix}help It's like my magic spell book!_* 💡
+> 💡 *_Remember, when in doubt, use ${usedPrefix}listmenu or ${usedPrefix}help It's like my magic spell book!. Powered by HansTech_* 💡
 `
 
     
