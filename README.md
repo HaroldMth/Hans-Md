@@ -61,10 +61,10 @@ set the Env Vars.
      To set up the ULTRA MD quickly, first fork this repository:
  [![ Hans MD Github Repo](https://img.shields.io/badge/Github-Fork%20Repo-red?style=for-the-badge&logo=Github)](https://github.com/HaroldMth/Hans-MD/fork)
 
-### **PAIRING CODE QR CODE**
+### **PAIRING CODE / QR CODE**
    - Visit the bot site to generate a pairing code and get **SESSION ID.**
 
-     [![Hans-MD Github Repo](https://img.shields.io/badge/Whatsapp-Pair%20Code-green?style=for-the-badge&logo=Whatsapp)](https://nnn-4mv7.onrender.com/)
+     [![Hans-MD Github Repo](https://img.shields.io/badge/Whatsapp-Pair%20Code-green?style=for-the-badge&logo=Whatsapp)](https://hansvmb.onrender.com)
 
 ### **Step-by-Step Deployment Guide**
 
