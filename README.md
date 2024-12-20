@@ -1,11 +1,8 @@
 
 #### Hans Md MULTI DEVICE WHATSAPP BOT ULTRA | STILL MANY HIDDEN COMMANDS
 
-<p align="center">  
-  <a href="https://youtube.com/@HansTech0">
-    <a><img src='https://ibb.co/tCFZb6r'/></a>
-<p align="center">
-  </a>
+<a><img src='https://i.ibb.co/9gCjCwp/OIG4-E-D0-QOU1r4-Ru-CKuf-Nj0o.jpg'/></a>
+
 </p>
 <p align="center">
 <a href="https://github.com/HaroldMth?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/GlobalTechInfo?label=Followers&style=social"></a>
@@ -344,7 +341,7 @@ cd Hans-MD
 ```
 npm install && npm start
 ```
-<a><img src='https://i.ibb.co/9gCjCwp/OIG4-E-D0-QOU1r4-Ru-CKuf-Nj0o.jpg'/></a><a><img src='https://i.ibb.co/9gCjCwp/OIG4-E-D0-QOU1r4-Ru-CKuf-Nj0o.jpg'/></a>
+<a><img src='https://i.ibb.co/9gCjCwp/OIG4-E-D0-QOU1r4-Ru-CKuf-Nj0o.jpg'/></a>
 
 - **Star ⭐ the repo if you like Hans-MD.**
 
